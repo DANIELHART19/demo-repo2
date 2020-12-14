@@ -20,4 +20,3 @@ function Circle(radius) {
 }
 
 const another = new Circle(1);
-another.draw();
